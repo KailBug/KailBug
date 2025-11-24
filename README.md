@@ -1,14 +1,7 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/UuT1p8i0Za9yw/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" alt="Ghibli Banner">
-
-  <br/><br/>
 
   <h1>Hi there, I'm KailBug! 🍃</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Writing+Code+under+the+Trees+🌲;CS+Graduate+Student+%40+Tencent+Competitor;LLM+%26+Text-to-SQL+Researcher+☁️;Dreaming+of+Totoro..." alt="Typing SVG" />
-  </a>
 
   <br/>
 
